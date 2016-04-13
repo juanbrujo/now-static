@@ -1,0 +1,14 @@
+{
+  "name": "now-static",
+  "version": "0.0.1",
+  "description": "starter to serve static files for 𝚫 now",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jorge Epuñan | @csslab",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.7"
+  }
+}
