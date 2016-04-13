@@ -1,3 +1,5 @@
+/* From: http://codepen.io/tmrDevelops/pen/dMdNvy */
+
 var Bird = {
   def: function(n, m, s) {
     if (m) this.e(n.prototype, m);
